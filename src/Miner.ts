@@ -19,22 +19,18 @@ export class Miner extends BaseGameEntity {
     // 鉱夫が現在いる場所
     private _location: LOCATION_TYPE;
     // 鉱夫がポケットに持っている金塊の数
-    private _goldCarried: number;
+    private _goldCarried: number = 0;
     // 鉱夫が銀行に預けている金額
-    private _moneyInBank: number;
+    private _moneyInBank: number = 0;
     // この値が高いほど、鉱夫の喉が渇く
-    private _thirst: number;
+    private _thirst: number = 0;
     // この値が高いほど、鉱夫は疲れる
-    private _fatigue: number;
+    private _fatigue: number = 0;
 
     constructor(id: number) {
         super(id);
 
         this._location = LOCATION_TYPE.SHACK;
-        this._goldCarried = 0;
-        this._moneyInBank = 0;
-        this._thirst = 0;
-        this._fatigue = 0;
         this._currentState = GoHomeAndSleepTilRested.getInstance();
     }
 
