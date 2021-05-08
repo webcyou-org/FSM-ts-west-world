@@ -1,4 +1,4 @@
-import { Miner } from 'Miner'
+import { Miner } from './Miner'
 
 export interface State {
     enter(miner: Miner): void;
