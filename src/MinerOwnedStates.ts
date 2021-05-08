@@ -84,8 +84,8 @@ export class VisitBankAndDepositGold implements State {
 
     execute(miner: Miner): void {
         // 金を預ける
-        miner.addToWealth(miner.goldCarried());
-        miner.setGoldCarried(0);
+        miner.addToWealth(miner.goldCarried);
+        miner.goldCarried = 0;
 
         const message = `${GetNameOfEntity(miner.ID)}: 金を預けています。現在預けている合計: ${miner.wealth()}`;
         log(chalk`{red ${message}}`);

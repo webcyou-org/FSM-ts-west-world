@@ -54,11 +54,11 @@ export class Miner extends BaseGameEntity {
         return this._goldCarried >= MAX_NUGGETS;
     }
 
-    goldCarried(): number {
+    get goldCarried(): number {
         return this._goldCarried;
     }
 
-    setGoldCarried(val: number) {
+    set goldCarried(val: number) {
         this._goldCarried = val;
     }
 
