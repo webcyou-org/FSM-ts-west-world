@@ -13,7 +13,7 @@
 * <https://github.com/webcyou>
 * <https://github.com/webcyou-org>
 * <https://github.com/panicdragon>
-* <http://www.webcyou.com/>
+* <https://www.webcyou.com/>
 
 ## License
 
