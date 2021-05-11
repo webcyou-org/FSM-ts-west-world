@@ -20,6 +20,19 @@
 $ node ./dist/index.js
 ```
 
+## Start Develop
+
+```
+$ npm install
+$ npm run dev:watch
+```
+
+### Build
+
+```
+$ npm run build
+```
+
 ## Author
 
 **Daisuke Takayama**
