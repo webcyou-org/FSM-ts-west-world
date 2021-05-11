@@ -14,6 +14,12 @@
 
 ![fsm1_1](https://user-images.githubusercontent.com/1584153/117684343-de4fbd80-b1ef-11eb-8016-74e5b1b9ee42.png)
 
+## Basic Usage
+
+```
+$ node ./dist/index.js
+```
+
 ## Author
 
 **Daisuke Takayama**
