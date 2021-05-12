@@ -37,7 +37,7 @@ $ npm run build
 
 **実例で学ぶゲームAIプログラミング　Chapter 2**
 
-![picture_large978-4-87311-339-5 jpeg 516×660](https://user-images.githubusercontent.com/1584153/117989934-a96e7280-b377-11eb-8b9f-4d98c8e2907c.jpg)
+![book](https://user-images.githubusercontent.com/1584153/117990778-7082cd80-b378-11eb-8790-774d4295a13e.jpg)
 
 https://www.oreilly.co.jp/books/9784873113395/
 
@@ -46,7 +46,7 @@ https://www.oreilly.co.jp/books/9784873113395/
 
 **Programming Game AI by Example**
 
-![1556220782 600×600](https://user-images.githubusercontent.com/1584153/117990261-f6524900-b377-11eb-9426-fc9798e7d134.jpg)
+![book2](https://user-images.githubusercontent.com/1584153/117990841-81cbda00-b378-11eb-8853-d9dcb3c5edb9.jpg)
 
 https://www.jblearning.com/catalog/productdetails/9781556220784
 
