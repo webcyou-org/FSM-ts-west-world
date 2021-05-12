@@ -8,7 +8,7 @@
 
 ## UML class diagrams
 
-![fsm1](https://user-images.githubusercontent.com/1584153/117683218-ce83a980-b1ee-11eb-93d1-b53ea13fd25a.png)
+![fsm1](https://user-images.githubusercontent.com/1584153/117987850-d3269a00-b375-11eb-89ee-6ed92c9f8397.png)
 
 ## Sample output
 
