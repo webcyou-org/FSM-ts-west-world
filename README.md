@@ -33,6 +33,12 @@ $ npm run dev:watch
 $ npm run build
 ```
 
+## Project List
+
+- https://github.com/webcyou-org/FSM-ts-west-world
+- https://github.com/webcyou-org/FSM-ts-west-world-with-woman
+- https://github.com/webcyou-org/FSM-ts-west-world-with-messaging
+
 ## Books for reference
 
 **実例で学ぶゲームAIプログラミング　Chapter 2**
