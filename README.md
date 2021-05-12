@@ -33,6 +33,23 @@ $ npm run dev:watch
 $ npm run build
 ```
 
+## Books for reference
+
+**実例で学ぶゲームAIプログラミング　Chapter 2**
+
+![picture_large978-4-87311-339-5 jpeg 516×660](https://user-images.githubusercontent.com/1584153/117989934-a96e7280-b377-11eb-8b9f-4d98c8e2907c.jpg)
+
+https://www.oreilly.co.jp/books/9784873113395/
+
+
+### original document
+
+**Programming Game AI by Example**
+
+![1556220782 600×600](https://user-images.githubusercontent.com/1584153/117990261-f6524900-b377-11eb-9426-fc9798e7d134.jpg)
+
+https://www.jblearning.com/catalog/productdetails/9781556220784
+
 ## Author
 
 **Daisuke Takayama**
